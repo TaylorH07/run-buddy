@@ -65,7 +65,7 @@ footer a {
 section {
   padding: 60px;
 }
-.hero{
+.hero {
   background-image: url("../images/hero-bg.jpeg");
   height: 600px;
   background-size: cover;
@@ -76,7 +76,7 @@ section {
   font-size: 24px;
   margin: 0;
 }
-.hero-form{
+.hero-form {
   border-style: solid;
   border-width: 3px;
   border-color: #024e76;
@@ -91,14 +91,14 @@ section {
 .hero-form p {
   margin: 5px 0 15px;
 }
-.form-input{
+.form-input {
   border: 1px solid #024e76;
   display: block;
   padding: 7px 15px;
   font-size: 16px;
   color: #024e76;
   width: 100%;
-  margin-bottom: 15px
+  margin-bottom: 15px;
 }
 .hero-form label {
   margin: 0 5px;
@@ -115,8 +115,6 @@ section {
   text-align: center;
 }
 
-
-
 intro p {
   line-height: 1.7;
   color: #39a6b2;
@@ -130,7 +128,7 @@ intro p {
   background: #fce138;
 }
 .steps div {
-margin-bottom: 80px;
+  margin-bottom: 80px;
 }
 
 .steps img {
@@ -169,7 +167,7 @@ margin-bottom: 80px;
   text-align: center;
 }
 
-.trainer{
+.trainer {
   width: 900px;
   margin: 0 auto 30px auto;
   background: #024e76;
@@ -182,14 +180,14 @@ margin-bottom: 80px;
   float: left;
 }
 
-.trainer-bio{
+.trainer-bio {
   padding: 35px;
   float: left;
   width: 65%;
 }
 .trainer-bio h3 {
-font-size: 32px;
-margin-bottom: 8px;
+  font-size: 32px;
+  margin-bottom: 8px;
 }
 
 .trainer-bio h4 {
