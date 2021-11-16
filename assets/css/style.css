@@ -115,7 +115,7 @@ section {
   text-align: center;
 }
 
-intro p {
+.intro p {
   line-height: 1.7;
   color: #39a6b2;
   width: 80%;
@@ -255,4 +255,20 @@ intro p {
 
 .contact-info a {
   color: #fce138;
+}
+
+/* Homepage Hero */
+.hero {
+  margin: 20px;
+  background-color: white;
+  font-size: 20px;
+  color: blue;
+}
+
+/* Secondary Homepage Hero*/
+.hero-secondary {
+  margin: 20px;
+  background-color: black;
+  font-size: 20px;
+  color: red;
 }
